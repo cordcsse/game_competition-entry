@@ -1,5 +1,5 @@
 # CSSE Game Competition
-This is a template that must be forked for the game competition. Remove all text before this with [CSSE Gaming Competition](https://github.com/cordcsse/game_competition-entry)
+This is a template that must be forked for the game competition. Remove all text before this link except the title [CSSE Gaming Competition](https://github.com/cordcsse/game_competition-entry)
 
 
 ## Competition Group:
